@@ -8,7 +8,7 @@ Before you begin, ensure you have the following software installed on your syste
 
 - **Nue-Interpreter-V3**: [Nue-V3](https://github.com/Nue-Foundation/Nue-V3)
 - **Nue-Pkg-Manager**:  [Pkg](https://github.com/Nue-Foundation/Pkg)
-- **Nue-Project-Manager**: [NueBase]([https://nodejs.org/](https://github.com/Nue-Foundation/NueBase-V2))
+- **Nue-Project-Manager**: [NueBase](https://github.com/Nue-Foundation/NueBase-V2)
 
 **Note**
 - Hey, don't forget to put that NueStuff directory in your system programs folder, like C:\Program Files\NueStuff. It's where the magic happens! 🎩
