@@ -10,8 +10,8 @@ By participating in this project, you are expected to uphold our [Code of Conduc
 
 ### Reporting Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/Nue-Foundation/nue/issues).
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/Nue-Foundation/nue/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/Nue-Foundation/Nue-V3/issues).
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/Nue-Foundation/Nue-V3/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 ### Suggesting Enhancements
 
@@ -49,7 +49,7 @@ By contributing, you agree that your contributions will be licensed under its MI
 
 - Set up your development environment by following our [setup guide](SETUP.md).
 - Take a look at our [roadmap](ROADMAP.md) to see where we are heading and to find areas that could use help.
-- Check out the [good first issues](https://github.com/Nue-Foundation/nue/labels/good%20first%20issue) if you're looking for a place to start.
+- Check out the [good first issues](https://github.com/Nue-Foundation/Nue-V3/labels/good%20first%20issue) if you're looking for a place to start.
 
 ## Recognition
 
